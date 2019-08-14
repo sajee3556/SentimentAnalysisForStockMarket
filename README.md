@@ -5,4 +5,5 @@ Anaconda3-2019.03 //Python 3.7.3
 
 Dependencies : 
 pip install tensorflow tweepy textblob keras backtrader
+conda install -c pytorch -c fastai fastai
         
